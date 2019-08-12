@@ -3,6 +3,7 @@ Este repositorio está hecho para poner la documentación de la aplicación Free
 
 Integrantes del equipo
 
-** Noemí Rodríguez Sandoval **
-** Rodrigo Vivas Maldonado **
+* **Noemí Rodríguez Sandoval**
+
+* **Rodrigo Vivas Maldonado**
 
